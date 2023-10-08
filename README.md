@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alhussain-shaikh&show_icons=true&locale=en" alt="alhussain-shaikh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alhussain-shaikh&" alt="alhussain-shaikh" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=alhussain-shaikh" alt="al-hussain-shaikh" />
+     </p>
