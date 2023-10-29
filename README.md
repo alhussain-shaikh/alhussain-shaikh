@@ -30,7 +30,4 @@
 <h3 align="left">Github Profile Trophys</h3>
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=alhussain-shaikh" alt="al-hussain-shaikh" />
      </p>
-<h3 align="left">Hacktoberfest 2023</h3>
-<p><img align="center" src="https://holopin.io/@alhussainshaikh" alt="al-hussain-shaikh" />
-     </p>
 
